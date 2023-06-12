@@ -1,0 +1,10 @@
+* drakma-async
+
+An asynchronous version of drakma that runs off of cl-async
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/drakma-async.git   |
+| commit  | 273c362  |
+| systems | drakma-async |
+|---------+-------------------------------------------|
+
